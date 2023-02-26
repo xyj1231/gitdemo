@@ -53,3 +53,7 @@ class Ui_MainWindow(object):
         self.actionjilian.setText(_translate("MainWindow", "级联"))
 
 import img_rc
+
+
+if __name__ == "__main__":
+	print("hello")
