@@ -58,3 +58,4 @@ import img_rc
 if __name__ == "__main__":
 	print("hello")
 	print("hello")
+	print("hotfix")
