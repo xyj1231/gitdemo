@@ -56,6 +56,6 @@ import img_rc
 
 
 if __name__ == "__main__":
-	print("hello")
+	print("maseter test")
 	print("hello")
 	print("hotfix")
